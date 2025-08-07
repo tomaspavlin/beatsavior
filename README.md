@@ -1,12 +1,17 @@
 # Beat Savior
-Submission for innovation marathon NakopniPrahu2023.
 
-![beatsavior-01](https://user-images.githubusercontent.com/40338867/204129431-81125d47-0dc8-486b-864c-821b315b62b1.png)
+> **This project was created for innovation marathon Nakopni Prahu 2023.**
+
+Check out the demo on YouTube:
+
+[![Watch the video](https://img.youtube.com/vi/2hzDyps5VqI/0.jpg)](https://www.youtube.com/watch?v=2hzDyps5VqI)
 
 ## Description
-Mobile app that alerts nearby volunteers (first reponders) in the event of a resuscitation emergency. The app also 
-provides the user with the location of automated external defibrillators (AEDs) and helps to save more lives by 
+Mobile app that alerts nearby volunteers (first reponders) in the event of a resuscitation emergency. The app also
+provides the user with the location of automated external defibrillators (AEDs) and helps to save more lives by
 rapidly mobilizing all necessary resources to the emergency location.
+
+![beatsavior-01](https://user-images.githubusercontent.com/40338867/204129431-81125d47-0dc8-486b-864c-821b315b62b1.png)
 
 ## Chek it out :eyes:
 * Backend: https://bildmlue.azurewebsites.net/swagger/index.html
